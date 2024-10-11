@@ -1,0 +1,7 @@
+C:\Users\siposz\Gitwork\minmax\bin\Debug\minmax.exe.config
+C:\Users\siposz\Gitwork\minmax\bin\Debug\minmax.exe
+C:\Users\siposz\Gitwork\minmax\bin\Debug\minmax.pdb
+C:\Users\siposz\Gitwork\minmax\obj\Debug\minmax.csproj.AssemblyReference.cache
+C:\Users\siposz\Gitwork\minmax\obj\Debug\minmax.csproj.CoreCompileInputs.cache
+C:\Users\siposz\Gitwork\minmax\obj\Debug\minmax.exe
+C:\Users\siposz\Gitwork\minmax\obj\Debug\minmax.pdb
